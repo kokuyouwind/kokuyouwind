@@ -21,6 +21,6 @@
       srcset="https://github-readme-stats-one-zeta-21.vercel.app/api/top-langs/?username=kokuyouwind&exclude_repo=dotfiles_old&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="right" src="https://github-readme-stats-one-zeta-21.vercel.app/api/top-langs/?username=kokuyouwind&exclude_repo=dotfiles_old" />
+    <img align="left" src="https://github-readme-stats-one-zeta-21.vercel.app/api/top-langs/?username=kokuyouwind&exclude_repo=dotfiles_old" />
   </picture>
 </a>
