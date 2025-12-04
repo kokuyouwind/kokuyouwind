@@ -26,5 +26,6 @@ jobs:
         uses: cicirello/user-statistician@d1918dd362c46c2dc1788139947224eee4fef0b8 # v1
         with:
           colors: dark
+          hide-keys: repositories, featured, followers, following, sponsors, sponsoring, reviews, contribTo
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
