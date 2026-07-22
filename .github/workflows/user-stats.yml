@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
 
       - name: Generate the user stats image
-        uses: cicirello/user-statistician@d1918dd362c46c2dc1788139947224eee4fef0b8 # v1
+        uses: cicirello/user-statistician@ba961d4af4415a5e81475ced0f588c1609d72537 # v1
         with:
           colors: dark
           hide-keys: repositories, featured, followers, following, sponsors, sponsoring, reviews, contribTo
